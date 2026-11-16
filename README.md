@@ -6,7 +6,7 @@ I've been putting a few projects from my quantitative research design class here
 
 ## GitHub Skills exercises
 
-I used Codex to run the practice exercises below. Each link opens GitHub’s completion record.
+I ran the follwoing practice exercises below. Each link opens GitHub’s completion record.
 
 - [Test with Actions](https://github.com/HekmatAboukhater/skills-test-with-actions/issues/1) — ran tests across three Python versions and reached 100% line coverage
 - [Hello GitHub Actions](https://github.com/HekmatAboukhater/skills-hello-github-actions/issues/1) — built a workflow that runs when a pull request opens
