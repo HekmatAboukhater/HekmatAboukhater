@@ -1,5 +1,11 @@
 # Hi, I'm Hekmat
 
+<div dir="rtl" lang="ar">
+<h2>من حلب إلى بوسطن</h2>
+<p>نشأتُ في حلب بسوريا، وغادرتُها عام ٢٠١٥ في منتصف سنوات الحصار، بحثًا عن حياةٍ أفضل في بوسطن بالولايات المتحدة. وأمضي أيّامي اليوم في الدراسة والبحث لأفهم العالم الذي تركته وراءي، وكيف تفاعلت العوامل الداخلية والتأثيرات الخارجية والتوتّرات داخل المجتمع السوري حتى دفعت وطني الأول إلى حافّة الهاوية.</p>
+<p>أتابع دراستي لنيل الماجستير في السياسات العامة في كلية جاكسون للشؤون العالمية بجامعة ييل. وفي بحثي عن سوريا ما بعد الأسد، أدرس ما يبقى من مؤسّسات الدولة وشبكات النفوذ بعد سقوط النظام، وكيف تؤثّر الانقسامات الطائفية في مسار إعادة بناء الدولة. أستعين في عملي بالمصادر العربية وأساليب البحث الكمّي، وأكتب عن سياسات الشرق الأوسط وحدود التدخّل الخارجي فيه.</p>
+</div>
+
 I'm an MPP student at Yale's Jackson School of Global Affairs. My interests are in international relations, political economy, and conflict.
 
 I've been putting a few projects from my quantitative research design class here. My [AQRD projects in R](https://github.com/HekmatAboukhater/aqrd-quantitative-portfolio) include four short posts on instrumental variables, difference-in-differences, regression discontinuity, and prediction.
