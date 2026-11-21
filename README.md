@@ -10,6 +10,12 @@ I'm an MPP student at Yale's Jackson School of Global Affairs. My interests are 
 
 I've been putting a few projects from my quantitative research design class here. My [AQRD projects in R](https://github.com/HekmatAboukhater/aqrd-quantitative-portfolio) include four short posts on instrumental variables, difference-in-differences, regression discontinuity, and prediction.
 
+## Arabic research and translation
+
+[قياس اللجوء السوري · Syrian refugee hosting, 2011–2024](https://github.com/HekmatAboukhater/syrian-refugee-hosting-arabic)
+
+An English research note with a full Arabic translation, a bilingual statistics glossary, and reproducible analysis of UNHCR and World Bank data. Includes comparisons per 1,000 residents and measures of the concentration of refugee hosting.
+
 ## GitHub Skills exercises
 
 I ran the follwoing practice exercises below. Each link opens GitHub’s completion record.
