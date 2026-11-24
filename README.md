@@ -10,6 +10,16 @@ I'm an MPP student at Yale's Jackson School of Global Affairs. My interests are 
 
 I've been putting a few projects from my quantitative research design class here. My [AQRD projects in R](https://github.com/HekmatAboukhater/aqrd-quantitative-portfolio) include four short posts on instrumental variables, difference-in-differences, regression discontinuity, and prediction.
 
+## Political science replications in R
+
+[Public versus private petition signing in Lebanon](https://github.com/HekmatAboukhater/lebanon-petition-replication)
+
+Reproduces all five regressions in Paler, Marshall and Atallah’s Table 1. A randomization test asks whether requiring a name affected signing when whole communities sometimes received the same petition.
+
+[Hometown safety and Syrian refugees’ willingness to return](https://github.com/HekmatAboukhater/syrian-refugee-return-replication)
+
+Reproduces Figure 3 from Alrababah and colleagues’ survey experiment. The project directly compares the effects of nationwide and hometown safety on stated willingness to return. Both studies include English and Arabic research notes.
+
 ## Arabic research and translation
 
 [قياس اللجوء السوري · Syrian refugee hosting, 2011–2024](https://github.com/HekmatAboukhater/syrian-refugee-hosting-arabic)
